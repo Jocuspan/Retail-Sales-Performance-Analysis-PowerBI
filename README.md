@@ -1,4 +1,4 @@
-Sales Performance Analysis Dashboard | Power BI
+Retail Sales Performance Analysis Dashboard | Power BI
 Project Overview
 This project uses Power BI to analyze sales transaction data, focusing on sales performance, product categories, customer segmentation, promotional effectiveness, returns, shipping methods, and sales representative performance.
 
